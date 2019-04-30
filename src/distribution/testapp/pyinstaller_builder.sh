@@ -1,0 +1,1 @@
+pyinstaller -c -F --name=testapp __main__.py
